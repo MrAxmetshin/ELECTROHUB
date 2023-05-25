@@ -65,7 +65,6 @@ madeby.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 madeby.BackgroundTransparency = 1.000
 madeby.Position = UDim2.new(0.648587584, 0, 0.201160535, 0)
 madeby.Size = UDim2.new(0, 286, 0, 62)
-madeby.Visible = false
 madeby.Font = Enum.Font.Sarpanch
 madeby.Text = "ELECTROHUB Made by: MrAxmetshin(@Coemsmaster)"
 madeby.TextColor3 = Color3.fromRGB(211, 211, 211)
@@ -79,7 +78,6 @@ madewith.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 madewith.BackgroundTransparency = 1.000
 madewith.Position = UDim2.new(0.648587584, 0, 0.348162472, 0)
 madewith.Size = UDim2.new(0, 286, 0, 62)
-madewith.Visible = false
 madewith.Font = Enum.Font.Sarpanch
 madewith.Text = "Made with: Roblox Studio"
 madewith.TextColor3 = Color3.fromRGB(211, 211, 211)
@@ -97,7 +95,6 @@ days.BorderColor3 = Color3.fromRGB(255, 225, 0)
 days.BorderSizePixel = 3
 days.Position = UDim2.new(0.0158192106, 0, 0.367504835, 0)
 days.Size = UDim2.new(0, 446, 0, 64)
-days.Visible = false
 days.Font = Enum.Font.Sarpanch
 days.Text = "Days"
 days.TextColor3 = Color3.fromRGB(226, 226, 226)
@@ -112,7 +109,6 @@ display.BorderColor3 = Color3.fromRGB(255, 225, 0)
 display.BorderSizePixel = 3
 display.Position = UDim2.new(0.0158192106, 0, 0.549323022, 0)
 display.Size = UDim2.new(0, 446, 0, 64)
-display.Visible = false
 display.Font = Enum.Font.Sarpanch
 display.Text = "DisplayName"
 display.TextColor3 = Color3.fromRGB(226, 226, 226)
@@ -127,7 +123,6 @@ badges.BorderColor3 = Color3.fromRGB(255, 225, 0)
 badges.BorderSizePixel = 3
 badges.Position = UDim2.new(0.0158192106, 0, 0.748549342, 0)
 badges.Size = UDim2.new(0, 446, 0, 64)
-badges.Visible = false
 badges.Font = Enum.Font.Sarpanch
 badges.Text = "Verified Badges?"
 badges.TextColor3 = Color3.fromRGB(226, 226, 226)
@@ -142,7 +137,6 @@ welcome.BorderColor3 = Color3.fromRGB(255, 225, 0)
 welcome.BorderSizePixel = 3
 welcome.Position = UDim2.new(0.0158192106, 0, 0.201160535, 0)
 welcome.Size = UDim2.new(0, 446, 0, 64)
-welcome.Visible = false
 welcome.Font = Enum.Font.Sarpanch
 welcome.Text = "Welcome,Player!"
 welcome.TextColor3 = Color3.fromRGB(226, 226, 226)
@@ -155,7 +149,6 @@ continues.Parent = welcomeplr
 continues.BackgroundColor3 = Color3.fromRGB(75, 75, 75)
 continues.Position = UDim2.new(0.745762765, 0, 0.872340441, 0)
 continues.Size = UDim2.new(0, 200, 0, 50)
-continues.Visible = false
 continues.Font = Enum.Font.Sarpanch
 continues.Text = "CONTINUE"
 continues.TextColor3 = Color3.fromRGB(0, 0, 0)
@@ -213,6 +206,7 @@ esp.BorderColor3 = Color3.fromRGB(108, 108, 108)
 esp.BorderSizePixel = 3
 esp.Position = UDim2.new(0, 0, 0.220502883, 0)
 esp.Size = UDim2.new(0, 200, 0, 50)
+esp.Visible = false
 esp.Font = Enum.Font.Sarpanch
 esp.Text = "ESP"
 esp.TextColor3 = Color3.fromRGB(148, 148, 148)
@@ -227,6 +221,7 @@ admin.BorderColor3 = Color3.fromRGB(108, 108, 108)
 admin.BorderSizePixel = 3
 admin.Position = UDim2.new(0.745762706, 0, 0.220502883, 0)
 admin.Size = UDim2.new(0, 200, 0, 50)
+admin.Visible = false
 admin.Font = Enum.Font.Sarpanch
 admin.Text = "Infinite Yield"
 admin.TextColor3 = Color3.fromRGB(148, 148, 148)
@@ -241,6 +236,7 @@ admin2.BorderColor3 = Color3.fromRGB(108, 108, 108)
 admin2.BorderSizePixel = 3
 admin2.Position = UDim2.new(0.745762706, 0, 0.361702114, 0)
 admin2.Size = UDim2.new(0, 200, 0, 50)
+admin2.Visible = false
 admin2.Font = Enum.Font.Sarpanch
 admin2.Text = "CMD-X"
 admin2.TextColor3 = Color3.fromRGB(148, 148, 148)
@@ -255,6 +251,7 @@ admin3.BorderColor3 = Color3.fromRGB(108, 108, 108)
 admin3.BorderSizePixel = 3
 admin3.Position = UDim2.new(0.744632781, 0, 0.500967145, 0)
 admin3.Size = UDim2.new(0, 200, 0, 50)
+admin3.Visible = false
 admin3.Font = Enum.Font.Sarpanch
 admin3.Text = "Universal GUI"
 admin3.TextColor3 = Color3.fromRGB(148, 148, 148)
@@ -269,6 +266,7 @@ noclip.BorderColor3 = Color3.fromRGB(108, 108, 108)
 noclip.BorderSizePixel = 3
 noclip.Position = UDim2.new(0, 0, 0.361702114, 0)
 noclip.Size = UDim2.new(0, 200, 0, 50)
+noclip.Visible = false
 noclip.Font = Enum.Font.Sarpanch
 noclip.Text = "Noclip"
 noclip.TextColor3 = Color3.fromRGB(148, 148, 148)
@@ -284,6 +282,7 @@ mn.BorderColor3 = Color3.fromRGB(255, 225, 0)
 mn.BorderSizePixel = 0
 mn.Position = UDim2.new(-1.86264515e-09, 0, 0.903288186, 0)
 mn.Size = UDim2.new(0, 165, 0, 50)
+mn.Visible = false
 mn.Font = Enum.Font.Sarpanch
 mn.Text = "Main"
 mn.TextColor3 = Color3.fromRGB(226, 226, 226)
@@ -299,6 +298,7 @@ otr.BorderColor3 = Color3.fromRGB(255, 225, 0)
 otr.BorderSizePixel = 0
 otr.Position = UDim2.new(0.813559234, 0, 0.903288186, 0)
 otr.Size = UDim2.new(0, 165, 0, 50)
+otr.Visible = false
 otr.Font = Enum.Font.Sarpanch
 otr.Text = "Other"
 otr.TextColor3 = Color3.fromRGB(226, 226, 226)
@@ -314,6 +314,7 @@ cms.BorderColor3 = Color3.fromRGB(255, 225, 0)
 cms.BorderSizePixel = 0
 cms.Position = UDim2.new(0.196610168, 0, 0.940038681, 0)
 cms.Size = UDim2.new(0, 529, 0, 31)
+cms.Visible = false
 cms.Font = Enum.Font.Sarpanch
 cms.Text = "Lower panel coming soon..."
 cms.TextColor3 = Color3.fromRGB(226, 226, 226)
@@ -357,23 +358,23 @@ UIGradient_3.Parent = dstr
 
 -- Scripts:
 
-local function FQXXV_fake_script() -- days.LocalScript 
+local function TKHXBE_fake_script() -- days.LocalScript 
 	local script = Instance.new('LocalScript', days)
 
 	local prompt = script.Parent
 	local plr = game:GetService('Players').LocalPlayer
 	prompt.Text = plr.AccountAge
 end
-coroutine.wrap(FQXXV_fake_script)()
-local function RNPPYQ_fake_script() -- display.LocalScript 
+coroutine.wrap(TKHXBE_fake_script)()
+local function ANQIMQ_fake_script() -- display.LocalScript 
 	local script = Instance.new('LocalScript', display)
 
 	local prompt = script.Parent
 	local plr = game:GetService('Players').LocalPlayer
 	prompt.Text = plr.DisplayName
 end
-coroutine.wrap(RNPPYQ_fake_script)()
-local function CXQPO_fake_script() -- badges.LocalScript 
+coroutine.wrap(ANQIMQ_fake_script)()
+local function PTGOJKI_fake_script() -- badges.LocalScript 
 	local script = Instance.new('LocalScript', badges)
 
 	local prompt = script.Parent
@@ -382,16 +383,16 @@ local function CXQPO_fake_script() -- badges.LocalScript
 		prompt.Text = "Verified Badge: Y"
 	end
 end
-coroutine.wrap(CXQPO_fake_script)()
-local function ZAHGOWG_fake_script() -- welcome.LocalScript 
+coroutine.wrap(PTGOJKI_fake_script)()
+local function KQZGK_fake_script() -- welcome.LocalScript 
 	local script = Instance.new('LocalScript', welcome)
 
 	local prompt = script.Parent
 	local plr = game:GetService('Players').LocalPlayer
 	prompt.Text = "Welcome to ELECTROHUB, "..plr.DisplayName
 end
-coroutine.wrap(ZAHGOWG_fake_script)()
-local function QVSA_fake_script() -- continues.LocalScript 
+coroutine.wrap(KQZGK_fake_script)()
+local function MEBXWST_fake_script() -- continues.LocalScript 
 	local script = Instance.new('LocalScript', continues)
 
 	local hub = script.Parent.Parent.Parent.Parent
@@ -406,10 +407,13 @@ local function QVSA_fake_script() -- continues.LocalScript
 		hub.functions.admin3.Visible = true
 		hub.functions.esp.Visible = true
 		hub.functions.noclip.Visible = true
+		hub.functions.mn.Visible = true
+		hub.functions.cms.Visible = true
+		hub.functions.otr.Visible = true
 	end)
 end
-coroutine.wrap(QVSA_fake_script)()
-local function BSPQ_fake_script() -- esp.LocalScript 
+coroutine.wrap(MEBXWST_fake_script)()
+local function MCGYT_fake_script() -- esp.LocalScript 
 	local script = Instance.new('LocalScript', esp)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -522,32 +526,32 @@ local function BSPQ_fake_script() -- esp.LocalScript
 		createFlex() --// Does exactly that :)
 	end)
 end
-coroutine.wrap(BSPQ_fake_script)()
-local function FFGZJ_fake_script() -- admin.LocalScript 
+coroutine.wrap(MCGYT_fake_script)()
+local function QPDCWA_fake_script() -- admin.LocalScript 
 	local script = Instance.new('LocalScript', admin)
 
 	script.Parent.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source", true))()
 	end)
 end
-coroutine.wrap(FFGZJ_fake_script)()
-local function RFNNZ_fake_script() -- admin2.LocalScript 
+coroutine.wrap(QPDCWA_fake_script)()
+local function PSZF_fake_script() -- admin2.LocalScript 
 	local script = Instance.new('LocalScript', admin2)
 
 	script.Parent.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source", true))()
 	end)
 end
-coroutine.wrap(RFNNZ_fake_script)()
-local function TITNSH_fake_script() -- admin3.LocalScript 
+coroutine.wrap(PSZF_fake_script)()
+local function BIZAUNQ_fake_script() -- admin3.LocalScript 
 	local script = Instance.new('LocalScript', admin3)
 
 	script.Parent.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/BidoSkinsYT/BidoSkinsYT/main/Bido%20SkinsV1.2"))()
 	end)
 end
-coroutine.wrap(TITNSH_fake_script)()
-local function VJHBBRB_fake_script() -- noclip.LocalScript 
+coroutine.wrap(BIZAUNQ_fake_script)()
+local function WXCQQ_fake_script() -- noclip.LocalScript 
 	local script = Instance.new('LocalScript', noclip)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -578,8 +582,8 @@ local function VJHBBRB_fake_script() -- noclip.LocalScript
 	end)
 	
 end
-coroutine.wrap(VJHBBRB_fake_script)()
-local function XBWOWG_fake_script() -- elechub1.clientcheck 
+coroutine.wrap(WXCQQ_fake_script)()
+local function TZHY_fake_script() -- elechub1.clientcheck 
 	local script = Instance.new('LocalScript', elechub1)
 
 	local RunService = game:GetService('RunService')
@@ -589,8 +593,8 @@ local function XBWOWG_fake_script() -- elechub1.clientcheck
 		Player:kick('This script is for Client only')
 	end
 end
-coroutine.wrap(XBWOWG_fake_script)()
-local function KBLURU_fake_script() -- CRO.LocalScript 
+coroutine.wrap(TZHY_fake_script)()
+local function YCAW_fake_script() -- CRO.LocalScript 
 	local script = Instance.new('LocalScript', CRO)
 
 	local b = script.Parent
@@ -603,8 +607,8 @@ local function KBLURU_fake_script() -- CRO.LocalScript
 		end
 	end)
 end
-coroutine.wrap(KBLURU_fake_script)()
-local function SBHX_fake_script() -- dstr.LocalScript 
+coroutine.wrap(YCAW_fake_script)()
+local function JQBM_fake_script() -- dstr.LocalScript 
 	local script = Instance.new('LocalScript', dstr)
 
 	local b = script.Parent
@@ -613,4 +617,4 @@ local function SBHX_fake_script() -- dstr.LocalScript
 	hub.Parent:Destroy()
 	end)
 end
-coroutine.wrap(SBHX_fake_script)()
+coroutine.wrap(JQBM_fake_script)()
