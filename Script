@@ -34,7 +34,7 @@ local UIGradient_2 = Instance.new("UIGradient")
 --Properties:
 
 elechub1.Name = "elechub1"
-elechub1.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+elechub1.Parent = game:GetService("CoreGui")
 
 hub.Name = "hub"
 hub.Parent = elechub1
